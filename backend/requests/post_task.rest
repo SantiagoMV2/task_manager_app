@@ -1,0 +1,9 @@
+post http://localhost:3002/api/tasks
+Content-Type: application/json
+
+{
+    "title": "third task",
+    "priority": "medium",
+    "done": true,
+    "date": "2026-02-02"
+}
