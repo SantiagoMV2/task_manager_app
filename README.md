@@ -12,3 +12,14 @@ The goal of this app is to practice and understand how a React frontend communic
 - Backend validation with Mongoose
 - Error handling (frontend + backend)
 - REST API communication using Axios
+# Project Structure
+task-manager/
+│
+├── backend/
+│   ├── models/
+│   ├── index.js
+│   └── .env
+│
+└── frontend/
+    ├── src/
+    └── vite.config.js
